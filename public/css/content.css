@@ -1,0 +1,27 @@
+.contenido {
+    background-color: #FFFFFF;
+}
+
+.texto {
+    align-items: center;
+    font-family: 'Vollkorn', serif;
+}
+
+h1, h2, h3 {
+    color: #FF5291;
+}
+
+.lista {
+    list-style: none;
+    background-image: url(http://s.myniceprofile.com/myspacepic/466/46614.gif);
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding: 10px 40px;
+}
+
+.imgGallery {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 400px;
+    object-fit: cover;
+}

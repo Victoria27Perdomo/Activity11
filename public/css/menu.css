@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    align-items: center;
+    font-family: 'Parisienne', cursive;
+    background-image: url(https://wallpapers.com/images/hd/cute-strawberry-y79svdwb3ptzp7di.jpg);
+    background-size: contain;
+}
+
+.menu, .footer {
+    background: #FF5291;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
+.nav-link:hover {
+    color: #FE9FC2;
+}
